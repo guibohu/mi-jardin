@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"index","permalink":"/index/","title":"Inicio","tags":["gardenEntry"]}
+{"dg-publish":true,"dg-permalink":"index","permalink":"/index/","title":"Inicio","tags":["gardenEntry"],"updated":"2026-01-30T23:40:19.580+01:00"}
 ---
 
 ### Guillermo Borrás
