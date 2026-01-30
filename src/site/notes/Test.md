@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/test/","tags":["gardenEntry"]}
+{"dg-publish":true,"dg-permalink":"test","permalink":"/test/"}
 ---
 
-Hey there! Este es el principio de mi jardín digital. :)
+Test
