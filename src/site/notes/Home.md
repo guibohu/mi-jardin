@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"dg-permalink":"index","permalink":"/index/","title":"Inicio","tags":["gardenEntry"],"updated":"2026-01-31T00:12:14.439+01:00"}
+{"dg-publish":true,"dg-permalink":"index","permalink":"/index/","title":"Inicio","tags":["gardenEntry"],"updated":"2026-01-31T00:13:37.658+01:00"}
 ---
 
-##### Product Designer explorando estrategia, data analysis y pensamiento sistémico
+Product Designer explorando estrategia, data analysis y pensamiento sistémico
 
 ###### 🔎 Explora
 
