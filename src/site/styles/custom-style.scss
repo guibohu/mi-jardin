@@ -1,13 +1,11 @@
 body {
-    /***
-      ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
-      IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
-   ***/
-    //  background-color: white;
-    //  .content {
-    //   font-size: 14px;
-    //  }
-    //  h1 {
-    //   color: black;
-    //  }
+:root {
+  --interactive-accent: #3b82f6;
+  --background-primary: #0f172a;
+  --text-normal: #e2e8f0;
+}
+
+.navbar-title {
+  font-weight: 600;
+}
 }
