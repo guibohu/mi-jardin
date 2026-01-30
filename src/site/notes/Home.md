@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"dg-permalink":"index","permalink":"/index/","title":"Inicio","tags":["gardenEntry"],"updated":"2026-01-31T00:13:37.658+01:00"}
+{"dg-publish":true,"dg-permalink":"index","permalink":"/index/","title":"Inicio","tags":["gardenEntry"],"updated":"2026-01-31T00:14:11.932+01:00"}
 ---
 
 Product Designer explorando estrategia, data analysis y pensamiento sistémico
 
-###### 🔎 Explora
+##### Explora
 
 - [[Strategy\|Strategy]]
 - [[Metrics\|Metrics]]
@@ -12,7 +12,7 @@ Product Designer explorando estrategia, data analysis y pensamiento sistémico
 - [[Execution\|Execution]]
 - [[Experiments\|Experiments]]
 
-###### ✍️ Últimas notas
+##### Últimas notas
 
 - [[Cómo pienso sobre Retención\|Cómo pienso sobre Retención]]
 - [[AAARRR aplicado a eCommerce\|AAARRR aplicado a eCommerce]]
